@@ -9,15 +9,17 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+* @file stats.c
+ * @brief Analytics Report
  *
- * <Add Extended Description Here>
+ * Available functions analyze an array of unsigned char data items and report analytics on the maximum, minimum, mean, and median of the data set. 
+ * Repository contains stats.c, stats.h and the README.md files
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author Prince Nkansah
+ * @date June 20, 2023
  *
  */
+
 #ifndef __STATS_H__
 #define __STATS_H__
 
